@@ -10,7 +10,7 @@ function TinderCards() {
     },
     {
         name: "King Diamond",
-        url: "https://i.pinimg.com/originals/f8/6d/4a/f86d4a189918e1366d811738ff4505db.png",
+        url: "https://i.ytimg.com/vi/z50X_QAfBvM/hqdefault.jpg",
     }
   ]);
 
